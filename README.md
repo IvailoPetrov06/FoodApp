@@ -1,2 +1,2 @@
 # FoodApp
-App
+App for food
