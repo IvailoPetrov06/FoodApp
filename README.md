@@ -1,2 +1,1 @@
 # FoodApp
-App for food
